@@ -9,9 +9,9 @@
 ### 步骤
 
  
-> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fliquanchen9%2Fvless-demo)
+> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/dootyu/deep)
 
-> [![Deploy2](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fliquanchen9%2Fvless-demo&envs=ID%2CWSPATH&IDDesc=UUID&WSPATHDesc=WebsocketPath)
+> [![Deploy2](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/dootyu/deep)
 
 点击上面的链接以部署  
 
